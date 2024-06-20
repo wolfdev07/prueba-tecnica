@@ -9,4 +9,4 @@ To install and use these scripts, follow these steps:
 1. **Clone the repository:**
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/basic-python-scripts.git](https://github.com/YOUR_USERNAME/basic-python-scripts.git)
+git clone https://github.com/wolfdev07/prueba-tecnica.git
